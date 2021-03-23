@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\built\\singleton.js",
+            "program": "${workspaceFolder}\\built\\adapter.js",
             // "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": [
                 "${workspaceFolder}/built/**/*.js"
